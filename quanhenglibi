@@ -28,9 +28,7 @@ local REN = {
 
 
 
-msg = Instance.new("Message")
-msg.Parent = game.Workspace
-msg.Text = "-欢迎使用权衡利弊-"
+
 
 
 local LBLG = Instance.new("ScreenGui", getParent)
